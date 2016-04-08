@@ -1,0 +1,1 @@
+[{"MS014.EGU":"deg.C","MS014@HH.LMT":"470.000000","MS014.SmpRate":"1000","MS014.EGUH":"600.000000","MS014@LO.LMT":"","MS014.Type":"Analog","MS014@LL.LMT":"","key":"MS014","MS014.EGUL":"0.000000","MS014@HI.LMT":"450.00000"},{"MW035.Type":"Digital","":"1000","MW035.EGU":"","key":"MW035"}]
